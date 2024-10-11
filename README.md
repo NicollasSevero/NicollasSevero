@@ -22,14 +22,11 @@ Sou um desenvolvedor front-end focado em criar interfaces de usuário elegantes 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicollassevero&show_icons=true&theme=onedark)
 
-### Projetos em Andamento
+### Projetos
 1. **Landing Page para Cafeteria**  
    Uma landing page moderna e responsiva para uma cafeteria fictícia, utilizando HTML, CSS e JavaScript.
-   - [Ver Projeto](#)
+   - [Ver Projeto - Café Natural](https://nicollassevero.github.io/Page-Coffe/)
 
-2. **App de Controle de Luzes**  
-   Um aplicativo de automação de luzes, integrado com sensores e notificações em tempo real.
-   - [Ver Projeto](#)
 
 ### Entre em Contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollasbonfim/)
