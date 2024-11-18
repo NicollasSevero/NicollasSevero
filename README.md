@@ -26,6 +26,7 @@ Sou um desenvolvedor front-end focado em criar interfaces de usuário elegantes 
 1. **Landing Page para Cafeteria**  
    Uma landing page moderna e responsiva para uma cafeteria fictícia, utilizando HTML, CSS e JavaScript.
    - [Ver Projeto - Café Natural](https://nicollassevero.github.io/Page-Coffe/)
+   - [Ver Projeto - Organizador de Tarefas](https://nicollassevero.github.io/Tarefudo/)
 
 
 ### Entre em Contato:
