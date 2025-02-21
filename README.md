@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Front-End | HTML | CSS | JavaScript
 
-Sou um desenvolvedor front-end focado em criar interfaces de usuário elegantes e funcionais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, no 4º semestre, e tenho experiência com diversas tecnologias e ferramentas voltadas para o desenvolvimento web. Com habilidades em HTML5, CSS3, JavaScript, PHP, e fundamentos de Java e Python, estou sempre buscando aprender mais e contribuir com projetos que façam a diferença.
+Profissional na área da TI, Formado em Analise e Desenvolvimento de Sistemas, com foco em Desenvolvimento, Ciber Security e Redes. Experiência em Desenvolvimento Front-end, suporte técnico, administração de TI e segurança da informação. Habilidades em Desenvolvimento FullStack (HTML5, CSS, JavaScript, PHP) e programação em linguagens como Java e Python. Além disso, tenho certificações relevantes em Ciber Security, gestão de TI (ITIL), redes TCP/IP e inteligência artificial.
 
 ### Minhas Habilidades Técnicas:
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -13,6 +13,7 @@ Sou um desenvolvedor front-end focado em criar interfaces de usuário elegantes 
 
 ### Certificações:
 - **MTA: Introduction to Programming Using HTML and CSS**
+- **Web Hacking** - Tecnicas de invasão abientes web e Introdução ao Hacking e Pentest 2.0.
 - **Programação para Internet**
 - **Formação em Cibersegurança**
 - **HTML5 e CSS3 - Módulo 2/5 (80 horas)**
