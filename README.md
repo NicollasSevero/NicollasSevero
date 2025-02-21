@@ -1,6 +1,6 @@
 # Olá, eu sou Nicollas Bonfim Severo da Silva 🖥️ 👾
 
-## Desenvolvedor Front-End | HTML | CSS | JavaScript
+## Developer FullStack | Cyber Security | Ethical Hacker | Network Security
 
 Profissional na área da TI, Formado em Analise e Desenvolvimento de Sistemas, com foco em Desenvolvimento, Ciber Security e Redes. Experiência em Desenvolvimento Front-end, suporte técnico, administração de TI e segurança da informação. Habilidades em Desenvolvimento FullStack (HTML5, CSS, JavaScript, PHP) e programação em linguagens como Java e Python. Além disso, tenho certificações relevantes em Ciber Security, gestão de TI (ITIL), redes TCP/IP e inteligência artificial.
 
