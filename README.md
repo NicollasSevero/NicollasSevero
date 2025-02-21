@@ -24,8 +24,8 @@ Profissional na área da TI, Formado em Analise e Desenvolvimento de Sistemas, c
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicollassevero&show_icons=true&theme=onedark)
 
 ### Projetos
-1. **Landing Page para Cafeteria**  
-   Uma landing page moderna e responsiva para uma cafeteria fictícia, utilizando HTML, CSS e JavaScript.
+ **Conheça meus pequenos Projetos pessoais**  
+    Projetos feitos com linguagens de programação HTML,CSS e JS:
    - [Ver Projeto - Café Natural](https://nicollassevero.github.io/Page-Coffe/)
    - [Ver Projeto - Organizador de Tarefas](https://nicollassevero.github.io/Tarefudo/)
 
