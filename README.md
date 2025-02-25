@@ -28,8 +28,9 @@ Profissional na área da TI, Formado em Analise e Desenvolvimento de Sistemas, c
 ### Projetos
  **Conheça meus pequenos Projetos pessoais**  
     Projetos feitos com linguagens de programação HTML,CSS e JS:
-   - [Ver Projeto - Café Natural](https://nicollassevero.github.io/Page-Coffe/)
-   - [Ver Projeto - Organizador de Tarefas](https://nicollassevero.github.io/Tarefudo/)
+   - [ Projeto - Café Natural]🤖(https://nicollassevero.github.io/Page-Coffe/)
+   - [ Projeto - Organizador de Tarefas]🤖(https://nicollassevero.github.io/Tarefudo/)
+   - [ Projeto - Controle de Dividas]🤖(https://nicollassevero.github.io/control-dividas/)
 
 
 ### Entre em Contato:
